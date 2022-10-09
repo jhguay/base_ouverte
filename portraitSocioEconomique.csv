@@ -1,0 +1,11 @@
+personne,age,genre,scolarité,revenu,habitation
+1,18,h,14,bas,locataire
+2,19,,15,bas,locataire
+3,65,f,17,moyen,propriétaire
+4,35,f,16,moyen,propriétaire
+5,30,h,15,moyen,locataire
+6,56,h,18,haut,propriétaire
+7,77,f,15,moyen,propriétaire
+8,26,f,15,bas,locataire
+9,45,h,14,bas,locataire
+10,49,h,18,haut,propriétaire
