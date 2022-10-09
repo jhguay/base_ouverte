@@ -1,0 +1,11 @@
+personne,age,genre,scolarité,revenu,habitation,Vote
+1,18,f,14,bas,locataire,Non
+2,19,h,15,bas,locataire,Non
+3,65,f,17,bas,locataire,Oui
+4,35,f,16,moyen,propriétaire,Oui
+5,30,h,15,moyen,locataire,Non
+6,56,h,18,haut,propriétaire,Oui
+7,77,f,15,moyen,propriétaire,Oui
+8,55,h,15,haut,locataire,Non
+9,45,h,14,bas,locataire,Oui
+10,49,h,18,haut,propriétaire,Oui
