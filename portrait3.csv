@@ -1,4 +1,4 @@
-personne,age,genre,scolarité,revenu,habitation,Vote
+personne,age,genre,scolarité,revenu,habitation,vote
 1,18,f,14,bas,locataire,Non
 2,19,h,15,bas,locataire,Non
 3,65,f,17,bas,locataire,Oui
