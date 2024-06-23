@@ -1,6 +1,6 @@
 Type,Age,Breed1,Gender,Color1,Color2,MaturitySize,FurLength,Vaccinated,Sterilized,Health,Fee,PhotoAmt,AdoptionSpeed,,
-Cat,3,Tabby,Male,Black,White,Small,Short,No,No,Healthy,100,1,2,,
-Cat,1,Domestic Medium Hair,Male,Black,Brown,Medium,Medium,Not Sure,Not Sure,Healthy,0,2,0,,
+Cat,3,Tabby,999,Black,White,Small,Short,No,No,Healthy,100,1,2,,
+Cat,1,Domestic Medium Hair,Male,999,Brown,Medium,Medium,Not Sure,Not Sure,Healthy,0,2,0,,
 Dog,1,Mixed Breed,Male,Brown,White,Medium,Medium,Yes,No,Healthy,0,7,3,,
 Dog,4,Mixed Breed,Female,Black,Brown,Medium,Short,Yes,No,Healthy,150,8,2,,
 Dog,1,Mixed Breed,Male,Black,No Color,Medium,Short,No,No,Healthy,0,3,2,,
